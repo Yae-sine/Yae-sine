@@ -4,3 +4,4 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-aboulhaj/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%230077B5.svg?logo=vercel&logoColor=white)](https://aboulhajyassine.me/)
